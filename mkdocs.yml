@@ -1,0 +1,7 @@
+site_name: 'kelsey-docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
