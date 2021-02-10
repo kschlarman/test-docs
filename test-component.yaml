@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kelsey-service
+  description: Some very important service
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/backstage/backstage/tree/master
+spec:
+  type: website
+  owner: kelsey
